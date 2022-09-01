@@ -1,0 +1,10 @@
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\bin\Debug\Kozgova.Kurs.Pol.exe.config
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\bin\Debug\Kozgova.Kurs.Pol.exe
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\bin\Debug\Kozgova.Kurs.Pol.pdb
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.AssemblyReference.cache
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.Form1.resources
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.Properties.Resources.resources
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.GenerateResource.cache
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.CoreCompileInputs.cache
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.exe
+D:\Загрузки\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.pdb
